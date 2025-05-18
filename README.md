@@ -6,6 +6,7 @@ This is a capstone project i have done to apply my learnings from AlmaBetter.
 This project aims to predict customer satisfaction based on their interaction with Flipkart’s support team using machine learning. The model helps identify dissatisfied customers and offers insights to improve operational efficiency, support quality, and customer retention.
 
 **Problem Statement**
+
 Customer satisfaction is a critical metric for e-commerce platforms like Flipkart. The goal is to:
 
 Predict whether a customer will be Satisfied or Dissatisfied.
